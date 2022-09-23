@@ -13,4 +13,4 @@ for i in lines:
     if name in phoneBook:
         print(name + '=' + str( phoneBook[name] ))
     else:
-        print('Not found')
+        print()
