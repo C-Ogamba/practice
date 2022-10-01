@@ -1,7 +1,5 @@
 import Container from 'react-bootstrap/Container';
-import Navbar from 'react-bootstrap/Navbar';
-
-
+import Header from './components/Header';
 
 export default function App() {
   const posts = [
@@ -25,6 +23,7 @@ export default function App() {
 
   return (
     <Container fluid className="App">
+      
       <h1>Microblog</h1>
       {posts.length === 0 ?
         <p>There are no blog posts.</p>
