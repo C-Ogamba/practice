@@ -25,7 +25,6 @@ export default function App() {
     <Container fluid className="App">
         <Header/>
         <Container>
-          <h1>Microblog</h1>
           {posts.length === 0 ?
             <p>There are no blog posts.</p>
           :
