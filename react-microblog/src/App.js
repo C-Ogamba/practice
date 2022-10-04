@@ -1,5 +1,8 @@
 import Container from 'react-bootstrap/Container';
+import Stack from 'react-bootstrap/Stack';
 import Header from './components/Header';
+import Sidebar from './components/Sidebar';
+
 
 export default function App() {
   const posts = [
