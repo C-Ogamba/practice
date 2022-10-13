@@ -10,7 +10,11 @@
 
 ##### The React documentation recommends the *Create Ract App* utility when creating a brand new single-page application.
 
-## npm start
+```
+npm start
+
+```
+
 
 ##### This command runs an initial development build, and creates a web server that serves the React application.
 
@@ -19,5 +23,5 @@
 npm install bootstrap react-bootstrap react-router-dom serve
 
 ```
-##### In React, components can be written as classes or as functions
+##### In React, components can be written as classes or as functions 
 ##
