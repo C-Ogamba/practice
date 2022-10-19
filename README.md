@@ -8,20 +8,20 @@
 
 ##### There are many ways to create a new React application.
 
-##### The React documentation recommends the *Create Ract App* utility when creating a brand new single-page application.
+##### The React documentation recommends the _Create Ract App_ utility when creating a brand new single-page application.
 
 ```
 npm start
 
 ```
 
-
 ##### This command runs an initial development build, and creates a web server that serves the React application.
 
 ## Installing Third-party Dependecies
+
 ```
 npm install bootstrap react-bootstrap react-router-dom serve
 
 ```
-##### In React, components can be written as classes or as functions 
-##
+
+##### In React, components can be written as classes or as functions
