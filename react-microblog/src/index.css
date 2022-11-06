@@ -27,6 +27,7 @@ code {
 }
 .Sidebar .nav-item {
   width: 100%;
+  height: auto;
 }
 
 .Sidebar a {
