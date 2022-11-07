@@ -13,6 +13,7 @@ code {
 }
 .App {
   padding: 0;
+  margin: 0;
 }
 .Header {
   border-bottom: 2px solid #ddd;
